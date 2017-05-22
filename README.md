@@ -6,6 +6,6 @@ Libraries: BeautifulSoup, pandas, requests
 
 Link to BLS data: https://www.bls.gov/web/laus/ststdsadata.txt
 
-Data are: state-level, monthly, and seasonally adjusted dating back to 1976.
+Data are: state-level, monthly, and seasonally-adjusted dating back to 1976.
 
 Metrics included: civilian non-institutional population, total labor force, total employed, and total unemployed. 

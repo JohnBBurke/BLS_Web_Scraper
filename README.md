@@ -1,5 +1,5 @@
 # BLS_data_scraper
-Python web scraper retrieves labor force data from the Bureau of Labor Statistics (BLS) website. Data are from the BLS' Local Area Unemployment Statistics (LAUS) report. For more info on the data, see: https://www.bls.gov/lau/.  
+Python web scraper retrieves labor force data from the Bureau of Labor Statistics (BLS) website. Data are from the Local Area Unemployment Statistics (LAUS) report. For more info on the data, see: https://www.bls.gov/lau/.  
 
 Data are pulled into a pandas' dataframe and output is delivered in an Excel. 
 
